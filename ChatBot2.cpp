@@ -1,7 +1,8 @@
-
-
-
-
+//
+// Program Name: ChatBot 1
+// Description: This is a improved version of ChatBot program written in c++ programming language,where previous ChatBot1
+//  in some more replies based on your preloaded question in program. 
+//
 
 #include <iostream>
 #include <string>
